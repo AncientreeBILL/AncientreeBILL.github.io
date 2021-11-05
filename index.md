@@ -69,7 +69,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 2. Organize all my studies into digital fashion.
 3. Get used to Github and this workflow.
 4. Improve this page with HTML and CSS (This page is powered by Jekyll with a markdown file. I am picking up some HTML and CSS to improve it into a more fabulous one)
-
-
-
-- 
