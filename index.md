@@ -22,7 +22,7 @@ In addition, I occasionally play with some algorithm problems on Leetcode, such 
 
 - Point Cloud Colorization (To be completed)
 
-- Visualization of the Hague.
+- Visualization of the Hague
     - It is the Geo-data visualization of river systems and public transport of the Hague. 
     - The result of this project is chosen to be shown on the [TU Delft course website](https://cusp.tbm.tudelft.nl/teaching/) as a banner image.
 
@@ -64,8 +64,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
 
-## Something I am recently doing during my free time...
+<!--## Something I am recently doing during my free time...
 1. Learn C++ and ROS
 2. Organize all my studies into digital fashion.
 3. Get used to Github and this workflow.
-4. Improve this page with HTML and CSS (This page is powered by Jekyll with a markdown file. I am picking up some HTML and CSS to improve it into a more fabulous one)
+4. Improve this page with HTML and CSS (This page is powered by Jekyll with a markdown file. I am picking up some HTML and CSS to improve it into a more fabulous one) -->
