@@ -1,7 +1,7 @@
 # Welcome to Bichi's Very First Personal Webpage!
 
 ## Self Intro
-Welcome to my personal page! My name is Bichi. I am passionate about sensor fusion, autonomous driving, data science, signal processing, and machine learning. 
+Welcome to my personal page! My name is Bichy. I am passionate about sensor fusion, autonomous driving, data science, signal processing, and machine learning. 
 In order to present myself better, I will list some information about myself, some of my previous projects on [Github](https://github.com/AncientreeBILL), and my resume. 
 
 I graduated from TU Delft Electrical Engineering with a master's degree in 2021. From 2015-2019 I studied at Jilin University in Changchun, China. In the academic year 2018-2019,  I went for a one-year exchange opportunity at Ecole Centrale de Nantes in France, majoring in Signal, Control and Robotics. In the 2019 summer, I graduated from Jilin University with a Bachelor of Science degree, majoring in electronic information science and technology. 
